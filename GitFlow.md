@@ -13,6 +13,7 @@ git flow feature publish <name>
 
 # Creating releases
 git flow release start <name>
+git flow release publish <name>
 
 ```
 
